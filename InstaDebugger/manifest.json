@@ -1,6 +1,6 @@
 {
 	"manifest_version": 3,
-	"version": "1.0",
+	"version": "2022.04.19",
 	"name": "InstaDebugger",
 	"description": "Pausa la página con un alert al momento de abrirse. De esta forma se pueden inspeccionar las webs de redireccionamiento automático.",
 	"author": "Xaival",

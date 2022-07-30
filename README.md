@@ -1,5 +1,5 @@
 # InstaDebugger
-Pausa la pagina al abrirse con un alert.
+Pausa la página con un alert al momento de abrirse. De esta forma se pueden inspeccionar las webs de redireccionamiento automático.
 
 Extensión en [Chrome Web Store](https://chrome.google.com/)
 
